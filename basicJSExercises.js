@@ -80,12 +80,6 @@ HINT: Use indexOf() and slice()
 
 function remove_first_occurrence(text, searchstring) {
 console.log(text);
-  for (var i=0; i< text.length; i++ ){
-
-
-  }
-
-var n = text.indexOf("the");
 
 
  return "edited text";
