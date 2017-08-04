@@ -18,7 +18,7 @@ function percentage(number, percentage) {
 }
 
 console.log("Percentage Calculator:");
-/* Uncomment the following to check */
+ Uncomment the following to check 
  console.log(percentage(2000, 37.12));
  console.log(percentage(450, 56.5));
  console.log(percentage(5230, 34));
@@ -87,7 +87,7 @@ console.log(text);
 
 console.log("Remove First Occurrence:");
 /* Uncomment the following to check */
-//  console.log(remove_first_occurrence("The quick brown fox jumps over the lazy dog", 'the'));
+ console.log(remove_first_occurrence("The quick brown fox jumps over the lazy dog", 'the'));
 
 
 
@@ -113,7 +113,7 @@ function alphabetic_order(word) {
 
 console.log("Alphabetic Order:");
 /* Uncomment the following to check */
-  // console.log(alphabetic_order("webmaster"));
+  console.log(alphabetic_order("webmaster"));
 
 
 
@@ -138,7 +138,7 @@ function most_frequent(arr) {
 
 console.log("Most Frequent Item:");
 /* Uncomment the following to check */
-  // most_frequent([3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3]);
+   most_frequent([3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3]);
 
 
 
@@ -180,7 +180,7 @@ function fizzbuzz(n) {
 
 console.log("FizzBuzz:");
 /* Uncomment the following to check */
-  // fizzbuzz(100);
+   fizzbuzz(100);
 
 
 
@@ -204,6 +204,6 @@ function guessing_game(guess) {
 
 console.log("Guessing Game:");
 /* Uncomment the following to check */
-  // var guess = prompt('Guess the number between 1 and 10 inclusive');
-  // console.log("User guessed: "+ guess);
-  // guessing_game(guess);
+   var guess = prompt('Guess the number between 1 and 10 inclusive');
+   console.log("User guessed: "+ guess);
+   guessing_game(guess);
